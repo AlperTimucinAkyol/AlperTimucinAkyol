@@ -21,7 +21,7 @@
 - :book: Boş zamanımda teknik makaleler okuyor, CTF yarışmalarına katılıyor veya küçük sistem projeleriyle uğraşıyorum.
 
 - :mailbox: How to reach me:
-- [![LinkedIn Badge](https://img.shields.io/badge/-Alper_Timucin_Akyol-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpertimucinakyol/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Alper_Timucin_Akyol-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpertimucinakyol/)
 
 ---
 
