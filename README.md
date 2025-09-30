@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :computer: **Yazılım Mühendisliği 4. sınıf öğrencisiyim** — web uygulamaları geliştiriyor, hem frontend hem backend üzerinde çalışıyorum.  
+- :computer: **Yazılım Mühendisliği 4. sınıf öğrencisiyim** 
 - :shield: **Siber güvenlik**, **sistem yönetimi** ve **ağ (networking)** alanlarına tutkulu bir şekilde yöneliyorum.  
 - :joystick: **Oyun oynamak** ve oyun geliştirme süreçlerini incelemek benim hobim.  
 - :book: Boş zamanımda teknik makaleler okuyor, CTF yarışmalarına katılıyor veya küçük sistem projeleriyle uğraşıyorum.
